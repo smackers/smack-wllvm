@@ -1,0 +1,3 @@
+. default.environment
+export LLVM_CC_NAME=clang-8
+export LLVM_CXX_NAME=clang++-8
