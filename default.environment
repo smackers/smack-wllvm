@@ -1,5 +1,5 @@
 export LLVM_COMPILER=clang
 export CC=smack-wllvm
 export CXX=smack-wllvm++
-export LLVM_CC_NAME=clang-11
-export LLVM_CXX_NAME=clang++-11
+export LLVM_CC_NAME=clang-12
+export LLVM_CXX_NAME=clang++-12
